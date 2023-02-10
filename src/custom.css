@@ -133,3 +133,8 @@
   border-width: 1px;
   border-color: white;
 }
+
+.splice {
+  height: 1vh;
+  width: 100vw;
+}

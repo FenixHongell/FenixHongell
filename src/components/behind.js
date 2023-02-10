@@ -32,7 +32,12 @@ function Behind() {
           Duis at dui suscipit, ornare ex eget, ultrices purus.
         </p>
       </article>
-      <Button>Show me!</Button>
+      <Button
+        target="_blank"
+        href="https://github.com/FenixHongell/FenixHongell"
+      >
+        Show me!
+      </Button>
     </div>
   );
 }

@@ -54,6 +54,7 @@ const IndexPage = () => {
         </div>
         <Behind />
       </div>
+      <p className="m-top-5">Copyright © 2203 Fenix Hongell</p>
     </div>
   );
 };
